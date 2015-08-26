@@ -1,6 +1,6 @@
 {
   "name": "request-error-handler",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Standardized error handler for rendering API responses",
   "main": "lib/index.js",
   "files": [
