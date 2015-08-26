@@ -5,7 +5,7 @@
 [![Build status][travis-image]][travis-url]
 [![Test coverage][coveralls-image]][coveralls-url]
 
-> Standardized error handler for rendering API responses.
+> Standardized error handler for rendering API responses with i18n.
 
 ## Installation
 
