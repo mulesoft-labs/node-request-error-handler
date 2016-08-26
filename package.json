@@ -33,7 +33,6 @@
   "homepage": "https://github.com/mulesoft-labs/node-request-error-handler",
   "devDependencies": {
     "chai": "^3.2.0",
-    "dot": "^1.0.3",
     "es6-promise": "^3.0.2",
     "finalhandler": "^0.4.0",
     "istanbul": "^0.4.2",
@@ -47,6 +46,7 @@
   },
   "dependencies": {
     "debug": "^2.2.0",
+    "dot": "^1.0.3",
     "escape-html": "^1.0.2",
     "invariant": "^2.1.0",
     "negotiator": "^0.6.0",
