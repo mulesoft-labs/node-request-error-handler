@@ -1,5 +1,7 @@
 # Request Error Handler
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mulesoft-labs/node-request-error-handler.svg)](https://greenkeeper.io/)
+
 [![NPM version][npm-image]][npm-url]
 [![NPM downloads][downloads-image]][downloads-url]
 [![Build status][travis-image]][travis-url]
