@@ -1,11 +1,10 @@
 # Request Error Handler
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/mulesoft-labs/node-request-error-handler.svg)](https://greenkeeper.io/)
-
 [![NPM version][npm-image]][npm-url]
 [![NPM downloads][downloads-image]][downloads-url]
 [![Build status][travis-image]][travis-url]
 [![Test coverage][coveralls-image]][coveralls-url]
+[![Greenkeeper badge](https://badges.greenkeeper.io/mulesoft-labs/node-request-error-handler.svg)](https://greenkeeper.io/)
 
 > Standardized error handler for rendering API responses with i18n. Automatically renders with support for JSON, XML, HTML and plain text.
 
