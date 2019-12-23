@@ -36,7 +36,7 @@
     "es6-promise": "^4.2.8",
     "finalhandler": "^1.1.2",
     "mocha": "^6.1.4",
-    "nyc": "^14.1.1",
+    "nyc": "^15.0.0",
     "osprey-method-handler": "^0.12.3",
     "popsicle": "^12.0.4",
     "popsicle-server": "^2.0.0",
